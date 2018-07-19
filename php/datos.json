@@ -1,0 +1,41 @@
+[{
+    "nombre": "yander",
+    "usuario": "yan",
+    "cuentos": [{
+        "titulo": "Mi bella genio",
+        "descripcion": "Romance ",
+        "creditos": "Keila-Yander-Walter",
+        "imagenes": [{
+            "src": "../imagenes/historias/0.jpg"
+        }, {
+            "src": "../imagenes/historias/b1.jpg"
+        }, {
+            "src": "../imagenes/historias/b2.jpg"
+        }, {
+            "src": "../imagenes/historias/b3.jpg"
+        }],
+        "audios": [],
+        "preguntas": []
+    }, {
+        "titulo": "UN triste leon",
+        "descripcion": "basado en hechos reales",
+        "creditos": "Yander-Keila-Walter",
+        "imagenes": [{
+            "src": "../imagenes/historias/l1.jpg"
+        }, {
+            "src": "../imagenes/historias/l2.jpg"
+        }, {
+            "src": "../imagenes/historias/l3.jpg"
+        }, {
+            "src": "../imagenes/historias/l4.jpg"
+        }, {
+            "src": "../imagenes/historias/l5.jpg"
+        }],
+        "audios": [],
+        "preguntas": []
+    }]
+}, {
+    "nombre": "keila",
+    "usuario": "kei",
+    "cuentos": []
+}]
